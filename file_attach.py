@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
+import time
 import os
 
 link = 'http://suninjuly.github.io/file_input.html'
