@@ -1,6 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
-import os
+#from selenium.webdriver.support.ui import Select
+#import os
 import time
 import math
 
